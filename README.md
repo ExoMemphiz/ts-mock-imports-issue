@@ -20,3 +20,7 @@ npm i
 ```sh
 npm t
 ```
+
+### Error Log
+
+!["Failed Test"](assets/failed_test.png "Failed Test")
